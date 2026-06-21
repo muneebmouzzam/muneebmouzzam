@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @muneebmouzzam, I am Graphics Designer 
-- 👀 I’m interested in Learning new things 
-- 🌱 I’m currently learning web & APP development
+- 👀 I’m interested in Learning new things
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shahmuneeb@hotmail.com
 
